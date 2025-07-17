@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/Button';
 import { Container } from '@/components/ui/Container';
 import { useScrollTo } from '@/hooks/useScrollTo';
 import { personalInfo } from '@/data/portfolio';
-import Image from 'next/image';
+
 export const Hero = () => {
   const { scrollToSection } = useScrollTo();
 
