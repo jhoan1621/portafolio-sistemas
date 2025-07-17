@@ -1,19 +1,19 @@
 import { PersonalInfo, Project, Skill, Experience, Education } from "@/types";
 
 export const personalInfo: PersonalInfo = {
-  name: "Tu Nombre",
+  name: "Jhoan Montañez",
   title: "Estudiante de Ingeniería de Sistemas",
   description: "Apasionado por la tecnología y el desarrollo de software. Especializado en desarrollo web full-stack con experiencia en React, Node.js y bases de datos. Siempre buscando nuevos desafíos y oportunidades para crecer profesionalmente.",
   image: "/profile-placeholder.jpg",
   resume: "/resume.pdf",
   contact: {
-    email: "tu.email@ejemplo.com",
-    phone: "+57 300 123 4567",
-    location: "Bogotá, Colombia",
+    email: "jhoanidelfonzo0578@ejemplo.com",
+    phone: "+51 960 255 007",
+    location: "Chimbote, Perú",
     social: {
-      github: "https://github.com/tuusuario",
-      linkedin: "https://linkedin.com/in/tuusuario",
-      twitter: "https://twitter.com/tuusuario"
+      github: "https://github.com/jhoan1621",
+      linkedin: "https://linkedin.com/in/jhoan1621",
+      twitter: "https://twitter.com/jhoan1621"
     }
   }
 };
